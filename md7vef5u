@@ -3,7 +3,7 @@
 <body>
 <style>
 body{
-  background-image: url('rainbow.gif');
+  background-image: url('sunset.gif');
   height: 100%;
   width: 100%;
   background-position: center;
@@ -12,7 +12,7 @@ body{
 }
 </style>
 <header>
-       <h1 style="background-image: url('IMG_20231119_182614.jpg');border-radius: 30px;font-family: Times New Roman;text-align:center;color:Violet;background-repeat: no-repeat;background-size: cover"><marquee behavior="scroll" direction="right">Crispin Cobelo Jr Personal Website <img src="rpig.gif" width="50" height="30"> <img src="a.gif" width="50" height="30">  <img src="b.gif" width="40" height="20">  </center>
+       <h1 style="background-image: url('IMG_20231119_182614.jpg');border-radius: 30px;font-family: Times New Roman;text-align:center;color:Indigo;background-repeat: no-repeat;background-size: cover"><marquee behavior="scroll" direction="right">Crispin Cobelo Jr Personal Website <img src="a.gif" width="50" height="30">  <img src="b.gif" width="40" height="20">  </center>
       
       
        <img src="c.gif" width="50" height="30"></marquee>
@@ -27,7 +27,7 @@ body{
     <title>Cobelo-local-Site</title>
     <style>
         body {
-        background-image: url('transparent')
+        background-image: url('bg2.jpeg')
         margin: 200px 40%;
       }
 
@@ -74,13 +74,15 @@ body{
     </style>
   </head>
   <body>
-    <form role="search" id="form">
-      <input type="search" id="query" name="q" placeholder="Cobelo's Search Engine..." aria-label="Search through site content">
+  <right>
+    
+       <form role="search" id="form">
+      </right><input type="search" id="query" name="q" placeholder="Cobelo's Search Engine..."aria-label="Search through site content"></center>
       <button>
-        <svg viewBox="0 0 1024 1024"><path class="path1" d="M848.471 928l-263.059-263.059c-48.941 36.706-110.118 55.059-177.412 55.059-171.294 0-312-140.706-312-312s140.706-312 312-312c171.294 0 312 140.706 312 312 0 67.294-24.471 128.471-55.059 177.412l263.059 263.059-79.529 79.529zM189.623 408.078c0 121.364 97.091 218.455 218.455 218.455s218.455-97.091 218.455-218.455c0-121.364-103.159-218.455-218.455-218.455-121.364 0-218.455 97.091-218.455 218.455z"></path></svg>
+        <svg viewBox="0 0 1024 1024"><path class="path1" d="M848.471 928l-263.059-263.059c-48.941 36.706-110.118 55.059-177.412 55.059-171.294 0-312-140.706-312-312s140.706-312 312-312c171.294 0 312 140.706 312 312 0 67.294-24.471 128.471-55.059 177.412l263.059 263.059-79.529 79.529zM189.623 408.078c0 121.364 97.091 218.455 218.455 218.455s218.455-97.091 218.455-218.455c0-121.364-103.159-218.455-218.455-218.455-121.364 0-218.455 97.091-218.455 218.455z"></path></svg></center>
       </button>
-    </form>
-    <script>
+    </form></center>
+    <script><center>
       const f = document.getElementById('form');
       const q = document.getElementById('query');
       const google = 'https://www.google.com/search?q=site%3A+';
@@ -94,7 +96,7 @@ body{
       }
 
       f.addEventListener('submit', submitted);
-    </script>
+    </script></center>
   
   <br>
   
@@ -121,9 +123,9 @@ body{
 
 </ul>
 </body>
-   <h1 style="text-align:center;background-color: transparent;font-family: Times New Roman;color:Black"><a>No.1 Cyclops In Calamba</a>
+   <h1 style="text-align:center;background-color: transparent;font-family: Times New Roman;color:Gold"><a>No.1 Cyclops In Calamba</a>
    <center><img src="Screenshot_2023-11-13-17-15-21-34_22e4250240c136c826b8a3b1264b092d.jpg" style="float:center;border-radius: 80px;" width="800px" height="600px" />
-    <lis style="color:black;font-family: Times New Roman"><h2>"<u>Crispin S. Cobelo Jr"</u></h1> Also known as a pro player in mlbb  since August 07, 2022 
+    <lis style="color:white;font-family: Times New Roman"><h2>"<u>Crispin S. Cobelo Jr"</u></h1> Also known as a pro player in mlbb  since August 07, 2022 
     
 <hr /><h4 style="text-align:left;color: Black">IGN:<lis style="color:yellow">CRISPIN JR
    <h4 style="text-align:left;color:black">ID:<a style="color:Yellow">328177626
@@ -134,21 +136,22 @@ body{
   <body>
     <header>
     <nav>
-      <center><a style="float:center">
+      <center><h5 style="float:center">
         <a href="index.html"> Home </a> |
-        <a href="https://crispba.github.io/Cobelo-personal-website/About.html"> About </a> |
-        <a href="https://crispba.github.io/Cobelo-personal-website/Contact.html"> Contact Us </a> |
-        <a href="https://crispba.github.io/Cobelo-personal-website/Terms of Service.html"> Terms of Services </a> |
-        <a href="https://crispba.github.io/Cobelo-personal-website/privacy-policy.html"> Privacy Policy </a></center>
+        <a href="#"> About </a> |
+        <a href="contact.html"> Contact Us </a>|
+        <a href="#"> Terms of Services </a> |
+        <a href="privacy-policy.html"> Privacy Policy </a>
+     </center> </h5>
     </nav>
       <script src="script.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 </body>
-<html>
+</html>
+  <footer>
     <header>
    <body>
-      <code><bottom><center><lis style="color:black"/>&copy;Copyright by Crisba Github.io| 2023 | All Rights Reserved </center><bottom></code>
-  <br />
+      <h5><center><lis style="color:black"/>&copy;Copyright by Crisba Github.io| 2023 | All Rights Reserved </center></h5>
    </body>
-</head>   
-</html>
+/html
+<!DOCTYPE html>
